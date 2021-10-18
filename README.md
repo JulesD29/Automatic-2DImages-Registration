@@ -19,8 +19,6 @@ identical or different, but identical in size. This is done according to transla
 -**_Recalage_ModaliteDiff.py_**: This evrsion makes it possible to check the correct operation of the program on 2 different modalities,
 by superimposing the 2 final images obtained at 50% of their intensity.
 
--**_Recalage_Flou.py_**: This version of the algorhitme performs a 2-step registration, using Gaussian blur....
-
 -**_Recalage_Flou.py_**: This version of the algorhitme works in 2 steps, using Gaussian blur. It is used with
 the same conditions as the first two.
 
