@@ -6,6 +6,7 @@
 *This is a project within our school curriculum. Topic proposed by ISEN Yncréa Ouest.*
 <br>
 *There may be errors or approximations in the documents presented. If that is the case, we are open to discussion and are eager to learn.*
+<br>
 ![ISEN](https://www.photonics-bretagne.com/wp-content/uploads/2018/06/logo-ISEN.png)
 ---> [Discover ISEN engineering school](https://www.isen.fr/campus/ecole-ingenieur-brest/)
 
