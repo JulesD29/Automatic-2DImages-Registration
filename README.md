@@ -4,6 +4,8 @@
 
 
 *This is a project within our school curriculum. Topic proposed by ISEN Yncréa Ouest.*
+<br> 
+Work in collaboration with the best binom @ElouanHocine
 
 <br>
 <br>
@@ -61,8 +63,27 @@ launch of the program.
 ## Results
 
 A usage porposition is available in the files above.
-Input images used (File in FilesStudents used):
+Input images used (File in FilesStudents used): image fixe = [*image1.nii*](fichiersEtudiants/image1.nii) // Image mobile = [*image2.nii*](fichiersEtudiants/image2.nii)
   - View results at each iteration in the Images folder [*(Go to this folder)*](Images)
   - View the final result in the Results folder [*(Go to this folder)*](Results)
 
+
+The purpose of this code is to superimpose two images that cannot be superimposed initially (translation and rotation of a moving image relative to the reference image).
+<br>
+<br>
+Firstly, we have two distinct images:
+<br>
+| ![Image fixe](Images/Objectif.png)   ![Image mobile](Images/Iteration0.png) | 
+|:--:| 
+| *Image1 (fixed) vs. Image2 (mobile)* |
+
+<br>
+<br>
+
+At the end of all iterations, we obtain a recalculation of the two images:
+<br>
+<br>
+| ![Image fixe](Images/Objectif.png)   ![Image mobile](Images/Iteration199.png) | 
+|:--:| 
+| *Image1 (fixed) vs Image2 (mobile) after processing* |
 
