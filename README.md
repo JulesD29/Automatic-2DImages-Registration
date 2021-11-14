@@ -82,7 +82,6 @@ Firstly, we have two distinct images:
 
 At the end of all iterations, we obtain a recalculation of the two images:
 <br>
-<br>
 | ![Image fixe](Images/Objectif.png)   ![Image mobile](Images/Iteration199.png) | 
 |:--:| 
 | *Image1 (fixed) vs Image2 (mobile) after processing* |
