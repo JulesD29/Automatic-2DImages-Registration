@@ -20,7 +20,7 @@ LIP
 
 -**_Recalage.py_**: This program is the basic version of the registration algorithm. It allows the registration of modality images 
 identical or different, but identical in size. This is done according to translations.
-[Go to this project](docs/Recalage.py)
+[Go to this project](Recalage.py)
 
 
 -**_Recalage_ModaliteDiff.py_**: This evrsion makes it possible to check the correct operation of the program on 2 different modalities,
@@ -59,5 +59,7 @@ launch of the program.
 ## Results
 
 Une porposition d'utilisation est disponible dans les dossiers ci-dessus.
-Images en entrée utilisées : 
+Images en entrée utilisées (File in FilesStudents used) :
+  --> Visualisation des résultats à chaque itération dans le dossier Images
+  --> Visualisation du résultat final dans le dossier Résults
 
