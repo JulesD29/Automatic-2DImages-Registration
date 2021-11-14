@@ -55,13 +55,13 @@ launch of the program.
 [Go to this folder](Results)
 
 
-
-
+<br>
+<br>
 
 ## Results
 
-Une porposition d'utilisation est disponible dans les dossiers ci-dessus.
-Images en entrée utilisées (File in FilesStudents used) :
-  --> Visualisation des résultats à chaque itération dans le dossier Images
-  --> Visualisation du résultat final dans le dossier Résults
+A usage porposition is available in the files above.
+Input images used (File in FilesStudents used):
+ <br> --> View results at each iteration in the Images folder
+ <br> --> View the final result in the Results folder
 
