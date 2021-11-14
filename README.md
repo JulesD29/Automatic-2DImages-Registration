@@ -5,6 +5,8 @@
 
 *This is a project within our school curriculum. Topic proposed by ISEN Yncréa Ouest.*
 
+<br>
+<br>
 
 ## Content of the repertory
 This folder contains everything needed to run the different versions of the algorithms presented in the report.
