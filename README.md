@@ -62,6 +62,7 @@ launch of the program.
 
 A usage porposition is available in the files above.
 Input images used (File in FilesStudents used):
- <br> --> View results at each iteration in the Images folder
- <br> --> View the final result in the Results folder
+  - View results at each iteration in the Images folder [*(Go to this folder)*](Images)
+  - View the final result in the Results folder [*(Go to this folder)*](Results)
+
 
