@@ -3,9 +3,11 @@
 ![Intro image](https://www.researchgate.net/profile/Ahmed-Kharrat-2/publication/215469453/figure/fig4/AS:393945428316166@1470935317478/Recalage-de-limage-cible-sur-limage-reference-Cependant-linspection-visuelle-nest.png)
 
 
-*This is a project within our school curriculum. Topic proposed by ISEN Yncréa Ouest.*
+*This is a project within our school curriculum. Topic proposed by ISEN Yncréa Ouest.* 
+![ISEN](https://www.photonics-bretagne.com/wp-content/uploads/2018/06/logo-ISEN.png)
+
 <br> 
-Work in collaboration with the best binom @ElouanHocine
+Work in collaboration with the best binom @ElouanHocine :sunglasses:	
 
 <br>
 <br>
