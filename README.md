@@ -69,7 +69,7 @@ launch of the program.
 
 ## Results
 
-A usage porposition is available in the files above.
+A proposal for use is available in the files above.
 Input images used (File in FilesStudents used): image fixe = [*image1.nii*](fichiersEtudiants/image1.nii) // Image mobile = [*image2.nii*](fichiersEtudiants/image2.nii)
   - View results at each iteration in the Images folder [*(Go to this folder)*](Images)
   - View the final result in the Results folder [*(Go to this folder)*](Results)
