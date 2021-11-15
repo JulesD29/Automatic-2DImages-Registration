@@ -12,7 +12,7 @@
 
 
 <br> 
-Work in collaboration with the best binom @ElouanHocine :sunglasses:	
+Work in collaboration with the best partner @ElouanHocine :sunglasses:	
 
 <br>
 <br>
